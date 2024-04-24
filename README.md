@@ -1,5 +1,10 @@
-### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XuelongSun)](https://github.com/anuraghazra/github-readme-stats)
 
+[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D13031745&query=%24.data.totalSubs&logo=Bilibili&logoColor=ff69b4&label=Bilibili&color=ff69b4)](https://space.bilibili.com/13031745)
+
+<!--![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DZhihu%26queryKey%3Dsun-xiao-bai-23&query=%24.data.totalSubs&label=Zhihu&color=0084FF)-->
+
+[![](https://img.shields.io/badge/Zhihu-4267-%230084FF?style=flat&logo=Zhihu&logoColor=ffffff&color=%230084FF)](https://www.zhihu.com/people/sun-xiao-bai-23)
 <!--
 **XuelongSun/XuelongSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
