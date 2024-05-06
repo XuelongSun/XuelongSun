@@ -1,6 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XuelongSun)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XuelongSun&show_icons=true&hide=contribs,prs&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D13031745&query=%24.data.totalSubs&logo=Bilibili&logoColor=ff69b4&label=Bilibili&color=ff69b4)](https://space.bilibili.com/13031745)
+[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fcard%3Fmid%3D13031745&query=data.follower&logo=Bilibili&logoColor=%23ffffff&label=Bilibili&color=%23ff69b4)](https://space.bilibili.com/13031745)
 
 <!--![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DZhihu%26queryKey%3Dsun-xiao-bai-23&query=%24.data.totalSubs&label=Zhihu&color=0084FF)-->
 
